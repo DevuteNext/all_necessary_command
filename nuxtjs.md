@@ -69,7 +69,7 @@ sudo systemctl restart nginx
  ```
 
 ```
- ource ~/.profile 
+ source ~/.profile 
  
  ```
 
