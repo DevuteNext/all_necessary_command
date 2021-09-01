@@ -4,7 +4,7 @@
 
 
 
-## apache mod_rewrite alternative for nginx
+## commands
 
 Project permission after install
 
